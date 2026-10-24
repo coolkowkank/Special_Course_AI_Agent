@@ -1,0 +1,11 @@
+# Environment variables (Never upload this!)
+.env
+
+# Python cache and build files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / Virtual environments
+.venv/
+env/
